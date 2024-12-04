@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-69219a3f93ddfb32c2b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "flappybird",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "flappybird::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flappybird-Debug-7d5f5e4bc4dc59e85e2c.json",
+					"name" : "flappybird",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flappybird_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flappybird_autogen-Debug-c5e4260ae97588cd4c7c.json",
+					"name" : "flappybird_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flappybird_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flappybird_autogen_timestamp_deps-Debug-64ef9d92e090926b3e91.json",
+					"name" : "flappybird_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT_test/flappybird/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT_test/flappybird"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
